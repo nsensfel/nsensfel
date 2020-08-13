@@ -41,7 +41,6 @@ This project is meant to be used in Tacticians Online, but as with Ataxia, it is
 **Website:** https://tonkadur.of.tacticians.online/
 
 **Related repositories:** [main repository](https://github.com/nsensfel/tonkadur), [demo engine for Python 3](https://github.com/nsensfel/tonkadur-python-interpreter).
-https://github.com/nsensfel/tonkadur-python-interpreter
 
 ____
 ### Ataxia
