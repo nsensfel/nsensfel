@@ -60,7 +60,7 @@ This project is still in its early stages of development. Indeed, the whole "dis
 **Related repositories:** [main repository](https://github.com/nsensfel/ataxia)
 
 ____
-#### relabsd
+### relabsd
 
 Daemon that turns your input devices into joysticks by converting relative axes into absolute ones.
 It was originally intended as a tool to allow the use of the SpaceNavigator (a 3d mouse, which is definitely an oddity) as a 6 directional joystick (something supported by every input library), but I made it generic enough that it can be used for other purposes.
