@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile
 I am currently completing a PhD on the analysis of interference caused by cache coherence in COTS multi-cores, at ONERA.
 
-I am currently looking for a career opportunity in software development for projects in the EU space industry. Here's [my LinkedIn account](https://www.linkedin.com/in/nathana%C3%ABl-sensfelder-24485b1a1/), and [my personal website](https://noot-noot.org).
+I am currently looking for a career opportunity in software development for projects in the European space industry. Here's [my LinkedIn account](https://www.linkedin.com/in/nathana%C3%ABl-sensfelder-24485b1a1/), and [my personal website](https://noot-noot.org).
 
 The collection of repositories here is mostly restricted to projects I do in my spare time. These do not generally involve anything related to embedded systems programing, and this is on purpose, to void any risk of conflict with my actual work.
 
