@@ -35,7 +35,7 @@ This project is meant to be used in Tacticians Online, but as with Ataxia, it is
 
 **Website:** https://tonkadur.of.tacticians.online/
 
-**Related repositories:** [main repository](https://github.com/nsensfel/tonkadur), [Interpreter (Python 3)](https://github.com/nsensfel/tonkadur-python-interpreter), [Interpreter (Elm)](https://github.com/nsensfel/tonkadur-elm-interpreter), [Interpreter (Discord/Python 3)](https://github.com/nsensfel/tonkadur-discord-bot).
+**Related repositories:** [main repository](https://github.com/nsensfel/tonkadur), [interpreter (Python 3)](https://github.com/nsensfel/tonkadur-python-interpreter), [interpreter (Elm)](https://github.com/nsensfel/tonkadur-elm-interpreter), [interpreter (Discord/Python 3)](https://github.com/nsensfel/tonkadur-discord-bot).
 
 ___
 ### ![Tacticians Online](https://noot-noot.org/to-logo.svg)
