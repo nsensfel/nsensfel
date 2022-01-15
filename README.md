@@ -19,7 +19,7 @@ ____
 ### ![Tonkadur](https://tonkadur.of.tacticians.online/images/tonkadur_logo_black_as_path.svg)
 Compiler and languages for narrative orchestration of interactive media.
 
-Coded in Java. A few more operators are being added in prior to the first release.
+Coded in Java.
 
 This is an alternative to Inkle's Ink and Yarn Spinner: a language allowing you to easily describe the narrative of a game, which is then interpreted by the game engine to present the player with scenes, characters, dialogues and reply options.
 
@@ -35,7 +35,7 @@ This project is meant to be used in Tacticians Online, but as with Ataxia, it is
 
 **Website:** https://tonkadur.of.tacticians.online/
 
-**Related repositories:** [main repository](https://github.com/nsensfel/tonkadur), [demo engine for Python 3](https://github.com/nsensfel/tonkadur-python-interpreter).
+**Related repositories:** [main repository](https://github.com/nsensfel/tonkadur), [Interpreter (Python 3)](https://github.com/nsensfel/tonkadur-python-interpreter), [Interpreter (Elm)](https://github.com/nsensfel/tonkadur-elm-interpreter), [Interpreter (Discord/Python 3)](https://github.com/nsensfel/tonkadur-discord-bot).
 
 ___
 ### ![Tacticians Online](https://noot-noot.org/to-logo.svg)
@@ -66,5 +66,5 @@ This project is still in its early stages of development. Indeed, the whole "dis
 
 **Website:** Not available yet.
 
-**Related repositories:** [main repository](https://github.com/nsensfel/ataxia)
+**Related repositories:** [main repository](https://github.com/nsensfel/ataxia).
 
