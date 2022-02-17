@@ -68,3 +68,17 @@ This project is still in its early stages of development. Indeed, the whole "dis
 
 **Related repositories:** [main repository](https://github.com/nsensfel/ataxia).
 
+____
+### JabberHive
+Distributed Markov-chain based reply-bot.
+
+Coded in C and Python.
+
+Construct a reply-bot by networking program nodes. These nodes are split into three categories:
+- Gateways, which interact with things other than JabberHive (e.g. IRC, Discord, or the command line).
+- Filters, which transform JabberHive queries and answers.
+- Servers, which store knowledge and perform the Markov-chain sentence generation.
+
+**Website:** https://jabberhive.org/
+
+**Related repositories:** See [related tag](https://github.com/topics/jabberhive).
