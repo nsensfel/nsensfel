@@ -1,6 +1,4 @@
 ## Welcome to my GitHub profile
-I am currently looking for a career opportunity in software development for projects in the European space industry. Here's [my LinkedIn account](https://www.linkedin.com/in/nathana%C3%ABl-sensfelder-24485b1a1/), and [my personal website](https://noot-noot.org).
-
 The collection of repositories here is mostly restricted to projects I do in my spare time. These do not generally involve anything related to embedded systems programing, as I do not wish to be working on the same challenges at work and at home.
 
 Below is a list of projects I am currently working on. Do not be fooled if GitHub indicates that the last commit was made a while back: it doesn't account for branches, and I tend to make very long branches which I merge back into `master` only when I deem the branch's feature has been fully completed.
